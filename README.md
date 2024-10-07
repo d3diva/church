@@ -1,3 +1,3 @@
-## How to Setup Docker for Ruby on Rails 7
+## Docker for Ruby on Rails 7
 
 
